@@ -23,7 +23,7 @@ function getMovies(searchText){
         output += `
           <div class="col-md-3">
             <div class="well text-center">
-              <img src="${movie.Poster}" class="img-rounded">
+              <img src="${movie.Poster}">
               <h5>${movie.Title}</h5>
               <a onclick="movieSelected('${movie.imdbID}')" class="btn btn-primary" href="#">Movie Details</a>
             </div>
@@ -94,23 +94,7 @@ function getMovie(){
 
     });
 }
-// const typed = new Typed('.type', {
-//   strings: [
-//     'Good Will Hunting',
-//     'The Godfather',
-//     'The Shawshank Redemption',
-//     'Goodfellas',
-//     'The Fugitive',
-//     'Terminator',
-//     'The Matrix',
-//     'The Lord of the Rings',
-//     'The Shining',
-//     'The Running Man',
-//   ],
-//   typeSpeed: 80,
-//   backSpeed: 50,
-//   loop: true,
-// });
+
 
 
 

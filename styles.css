@@ -1,6 +1,6 @@
-/* *{
+*{
     font-family: 'Concert One', cursive;
-} */
+} 
 h5{
     font-family: 'Concert One', cursive;
 }
@@ -23,17 +23,6 @@ h5{
 
 }
 }
-
-.navbar-brand{
-    font-family: 'Concert One', cursive;
-    color: #42b526;
-  
-}
-
-h3.text-center{
-    color:#c9d8d0;
-    font-family: 'Concert One', cursive;
-
 
 }
 
