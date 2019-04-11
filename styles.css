@@ -4,7 +4,7 @@
 
 #movies img, #movie img{
     width:100%;
-
+}
 
 
 @media(min-width:960px){
@@ -19,17 +19,4 @@
     height: 240px;
 
 }
-}
-
-}
-
-#outer_type{
-    color:yellow;
-    padding:0;
-    margin:0 auto;
-    position: relative;
-}
-
-#type{
-    font-size: 40px;
 }
