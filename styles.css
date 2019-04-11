@@ -1,0 +1,49 @@
+/* *{
+    font-family: 'Concert One', cursive;
+} */
+h5{
+    font-family: 'Concert One', cursive;
+}
+
+#movies img, #movie img{
+    width:100%;
+
+
+
+@media(min-width:960px){
+
+
+
+#movies .col-md-3 .well{
+    height: 390px;
+
+}
+#movies .col-md-3 img{
+    height: 240px;
+
+}
+}
+
+.navbar-brand{
+    font-family: 'Concert One', cursive;
+    color: #42b526;
+  
+}
+
+h3.text-center{
+    color:#c9d8d0;
+    font-family: 'Concert One', cursive;
+
+
+}
+
+#outer_type{
+    color:yellow;
+    padding:0;
+    margin:0 auto;
+    position: relative;
+}
+
+#type{
+    font-size: 40px;
+}
